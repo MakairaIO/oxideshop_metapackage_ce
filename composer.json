@@ -1,5 +1,5 @@
 {
-  "name": "oxid-esales/oxideshop-metapackage-ce",
+  "name": "makaira/oxideshop-metapackage-ce",
   "description": "This is OXID eShop compilation metapackage.",
   "type": "project",
   "keywords": [
@@ -30,8 +30,7 @@
     "justinrainbow/json-schema": "5.2.12",
     "kore/data-object": "1.3",
     "laminas/laminas-code": "4.6.0",
-    "makaira/oxid-connect-essential": "1.4.2",
-    "makaira/shared-libs": "2022.1.1",
+    "makaira/oxid-connect": "^2.11",
     "monolog/monolog": "1.27.1",
     "oxid-esales/flow-theme": "v3.8.1",
     "oxid-esales/gdpr-optin-module": "v2.3.3",
